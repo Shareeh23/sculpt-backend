@@ -45,8 +45,6 @@ Thumbs.db
 
 # IDE / editors
 .vscode/*
-!.vscode/extensions.json
-!.vscode/settings.json
 .idea/
 
 # Testing
