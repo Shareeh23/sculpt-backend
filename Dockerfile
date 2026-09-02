@@ -14,7 +14,7 @@ COPY tsconfig.json ./
 COPY src ./src
 
 # Build the TypeScript application
-RUN npm run build
+RUN NODE_OPTIONS="--max-old-space-size=640" npm run build
 
 # Production stage
 FROM node:22-alpine AS production
