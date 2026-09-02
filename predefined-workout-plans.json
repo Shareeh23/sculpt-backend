@@ -1,0 +1,3654 @@
+[
+  {
+    "source": "predefined",
+    "planName": "Kratos Program",
+    "programTheme": "Kratos from God of War",
+    "imageKey": "/uploads/workout-1754405480786-956368680.jpg",
+    "prioritizedMuscles": [
+      "Traps",
+      "Front Delts",
+      "Rear Delts",
+      "Upper Back",
+      "Triceps"
+    ],
+    "neutralPoints": [
+      "Biceps",
+      "Abs",
+      "Forearms",
+      "Chest",
+      "Neck",
+      "Quads",
+      "Lats"
+    ],
+    "weakPoints": [
+      "Side Delts",
+      "Calves",
+      "Hamstrings",
+      "Glutes",
+      "Lower Back"
+    ],
+    "trainingDays": 5,
+    "sessions": [
+      {
+        "sessionOrder": 1,
+        "focusAreas": [
+          "Front Delts",
+          "Chest",
+          "Upper Back",
+          "Triceps",
+          "Neck",
+          "Rear Delts",
+          "Lats",
+          "Traps"
+        ],
+        "exercises": [
+          {
+            "name": "Close Grip Bench Press",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Dips",
+                "sets": 4,
+                "repRange": "4-8"
+              }
+            ]
+          },
+          {
+            "name": "DB Rows",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Meadows Rows",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "DB Shoulder Press",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Arnold Press",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Cable Tricep Extensions",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "DB Tricep Extensions",
+                "sets": 3,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "DB Pullovers",
+            "sets": 4,
+            "repRange": "10-12",
+            "alternates": [
+              {
+                "name": "Lat Pulldowns",
+                "sets": 4,
+                "repRange": "10-12"
+              }
+            ]
+          },
+          {
+            "name": "Neck Curls",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Rear Delt Rows",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "For the Monday Upper One session, the program initiates with a foundational exercise to target the Chest, Shoulders, and Triceps. Choose between a Close-Grip Bench Press or Dips, performing 4 sets of 6 to 10 repetitions or 4 sets of 4 to 8 repetitions, respectively, based on preference. Immediately following this, execute Dumbbell or Meadows Rows for 4 sets of 8 to 12 repetitions. This program consistently incorporates Upper Back work, with this sequence serving as a classic horizontal push followed by a pull.\n\nNext, transition to Overhead Pressing by performing Dumbbell Press or Overhead Press for 3 sets of 6 to 10 repetitions. Directly after this, perform Cable or Dumbbell Triceps Extensions for 3 sets of 8 to 12 repetitions. This pairing is designed to develop the Shoulders and specifically target the long head of the Triceps. Be assured that this sequence will not diminish performance. Consistent Shoulder work is a core component of this program. While the program prioritizes optimal recovery, individuals experiencing shoulder discomfort, particularly from horizontal pressing movements like Bench presses or Dips, should modify exercises as needed. Vertical pressing, in contrast, tends to be less taxing on the Shoulder joint and can even aid recovery.\n\nThe session continues with either Dumbbell Pullovers (to develop the Lats, Chest, and long head of the Triceps) or Lat Pulldowns, both performed for 4 sets of 10 to 12 repetitions. This offers flexibility to hit muscles similarly but with different movement patterns. Following this, perform Neck Curls for 4 sets of 15 to 20 repetitions. Finally, include Rear Delt Rows for 4 sets of nucleus overload. Nucleus overload is a specific training method where a weight that can be easily lifted is chosen for a set number of repetitions, without reaching failure. It is designed to be low-fatigue and serves as a supplement to, rather than a replacement for, the primary, harder work for a given muscle group. This technique helps target specific muscle groups and enhances results when performed correctly, ensuring recovery is not compromised."
+      },
+      {
+        "sessionOrder": 2,
+        "focusAreas": [
+          "Upper Back",
+          "Lats",
+          "Traps",
+          "Calves",
+          "Hamstrings",
+          "Glutes",
+          "Quads",
+          "Abs",
+          "Biceps",
+          "Forearms"
+        ],
+        "exercises": [
+          {
+            "name": "Barbell Rows",
+            "sets": 4,
+            "repRange": "10-12",
+            "alternates": [
+              {
+                "name": "Power Cleans",
+                "sets": 4,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Seated Calf Raises",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": [
+              {
+                "name": "Standing Calf Raises",
+                "sets": 4,
+                "repRange": "15-20"
+              }
+            ]
+          },
+          {
+            "name": "Block Pulls",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Farmer's Carries",
+                "sets": 3,
+                "repRange": "50m"
+              }
+            ]
+          },
+          {
+            "name": "Russian Twists",
+            "sets": 3,
+            "repRange": "12-15",
+            "alternates": []
+          },
+          {
+            "name": "Leg Press",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Split Squats",
+                "sets": 4,
+                "repRange": "12-15"
+              }
+            ]
+          },
+          {
+            "name": "DB Curls",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Pinwheel Curls",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Shrugs",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "For the Tuesday Lower One session, the program initiates with a primary compound movement. Select either Barbell Rows for 4 sets of 10 to 12 repetitions or Power Cleans for 4 sets of 6 to 10 repetitions. While these movements engage the Legs, their primary function in this program is to develop the Upper Back. Immediately following this, perform Seated or Standing Calf Raises for 4 sets of 15 to 20 repetitions.\n\nNext, for additional Posterior Chain and Upper Back development, perform either Block Pulls for 3 sets of 6 to 10 repetitions or Farmer's Carries for 3 sets of 50 meters. The Farmer's carry emphasizes Trap development, while Block Pulls offer more comprehensive Back and Lower Back engagement. These exercises can be rotated weekly to introduce variation, with the rotations designed to be complementary and synchronized to target different muscle aspects. For instance, a session starting with Barbell Rows might pair with Farmer's carries for the next exercise, while a session beginning with Power Cleans could be followed by Block Pulls, as these pairings engage different muscle synergies.\n\nFollowing these, perform Russian Twists for 3 sets of 12 to 15 repetitions. To conclude the primary lower body focus, perform Leg Press for 4 sets of 10 to 15 repetitions or Split Squats for 4 sets of 12 to 15 repetitions, ensuring Quad development. This is then followed by Dumbbell or Pinwheel Curls for 4 sets of 8 to 12 repetitions, specifically targeting the Biceps. The session concludes with Shrugs for 4 sets of nucleus overload. Nucleus overload in this context involves performing repetitions with a weight that is easily manageable, without reaching muscular failure. This technique aims to further engage the Traps, building upon prior fatigue from the session, thereby fully stimulating this muscle group."
+      },
+      {
+        "sessionOrder": 3,
+        "focusAreas": [
+          "Front Delts",
+          "Upper Back",
+          "Lats",
+          "Traps",
+          "Triceps",
+          "Biceps",
+          "Neck",
+          "Side Delts",
+          "Chest"
+        ],
+        "exercises": [
+          {
+            "name": "DB Overhead Press",
+            "sets": 4,
+            "repRange": "12-15",
+            "alternates": [
+              {
+                "name": "Barbell Overhead Press",
+                "sets": 4,
+                "repRange": "12-15"
+              },
+              {
+                "name": "Viking Press",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Barbell Seal Rows",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "DB Seal Rows",
+                "sets": 5,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Weighted Chin-Ups",
+            "sets": 3,
+            "repRange": "6-8",
+            "alternates": [
+              {
+                "name": "DB Chest Press",
+                "sets": 3,
+                "repRange": "10-12"
+              },
+              {
+                "name": "Machine Chest Press",
+                "sets": 3,
+                "repRange": "10-12"
+              }
+            ]
+          },
+          {
+            "name": "Neck Extensions",
+            "sets": 3,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Lateral Raises",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Upright Rows",
+                "sets": 4,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Cable Curls",
+            "sets": 4,
+            "repRange": "12-15",
+            "alternates": [
+              {
+                "name": "Cable Pushdowns",
+                "sets": 4,
+                "repRange": "12-15"
+              }
+            ]
+          },
+          {
+            "name": "Rear Delt Rows",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "After a day of rest, the Thursday Upper Two session commences. Begin with an Overhead Press (Dumbbell or Barbell) for 4 sets of 12 to 15 repetitions, or a Viking Press for 4 sets of 8 to 12 repetitions. The Viking Press variation may engage more of the Upper Chest. Following this, perform Barbell or Dumbbell Seal Rows for 4 sets of 10 to 15 repetitions to further develop the Upper Back without leg involvement. Consistent high-volume work for the Upper Back is critical for significant development. Conclude this sequence with Weighted Chin-Ups for 3 sets of 6 to 8 repetitions. This allows for maximal intensity within a narrow rep range, prioritizing progressive weight increases.\n\nAlternatively, for additional Chest development, a Dumbbell or Machine Chest Press can be performed for 3 sets of 10 to 12 repetitions. This provides a rotating option for integrating Chest exercises into the program. Following this, perform Neck Extensions for 3 sets of 15 to 20 repetitions.\n\nTo conclude this upper body session, perform Lateral Raises or Upright Rows for 4 sets of 10 to 15 repetitions. This is followed by a choice between Cable Curls or Pushdowns, performed for 4 sets of 12 to 15 repetitions, allowing for focus on either Bicep or Tricep isolation. The session concludes with Rear Delt Rows for 4 sets of nucleus overload.\n\nA core concept of this program is the pyramid of intensity and priority: exercises performed at the beginning of each training day are the most crucial for achieving desired results. Therefore, if time constraints arise, later sets or exercises are the first to be omitted. The initial heavy compound movements of each day should always be prioritized."
+      },
+      {
+        "sessionOrder": 4,
+        "focusAreas": [
+          "Quads",
+          "Glutes",
+          "Upper Back",
+          "Hamstrings",
+          "Abs",
+          "Traps",
+          "Lats",
+          "Forearms"
+        ],
+        "exercises": [
+          {
+            "name": "Squats",
+            "sets": 4,
+            "repRange": "6-8",
+            "alternates": [
+              {
+                "name": "Hack Squats",
+                "sets": 4,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Hang Pulls",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Snatch Grip Pulls",
+                "sets": 4,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "RDLs",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Block Pulls",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Decline Sit-Ups",
+            "sets": 3,
+            "repRange": "12-15",
+            "alternates": []
+          },
+          {
+            "name": "Hip Thrusts",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Barbell Hack Squats",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Power Shrugs",
+            "sets": 4,
+            "repRange": "8-10",
+            "alternates": [
+              {
+                "name": "Pendlay Rows",
+                "sets": 4,
+                "repRange": "8-10"
+              }
+            ]
+          },
+          {
+            "name": "Shrugs",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "For the Friday Lower Two session, begin with either Squats or Hack Squats, performing 4 sets of 6 to 8 repetitions or 4 sets of 10 to 15 repetitions based on preference. Following this, perform Hang Power Cleans or Snatch-Grip Hang Power Cleans for 4 sets of 10 to 15 repetitions. These exercises effectively engage the Posterior Chain and contribute to Upper Back development. The 10 to 15 repetition range signifies an evolving rep range, allowing for greater ability to reach muscular failure, maintain intensity, and promote consistent progression.\n\nNext, continue with either Romanian Deadlifts or Block Pulls to target the Posterior Chain or Upper Back. For Romanian Deadlifts, perform 3 sets of 8 to 12 repetitions, and for Block Pulls, perform 3 sets of 6 to 10 repetitions. This is followed by Decline Sit-Ups for 3 sets of 12 to 15 repetitions.\n\nThe session then concludes with a choice between Hip Thrusts or Barbell Hack Squats, each performed for 4 sets, allowing for a focus on either Quads or Glutes. This is followed by Power Shrugs (for Trap development) or Pendlay Rows (for overall Back development with less Upper Trap emphasis), both for 4 sets of 8 to 10 repetitions. Finally, the session concludes with Shrugs performed for nucleus overload. The logic here is that if the Shoulders are primarily targeted earlier in the day, the session ends with Rear Delt nucleus overload; if the Traps are emphasized, the session concludes with Shrugs for nucleus overload, capitalizing on prior muscle fatigue."
+      },
+      {
+        "sessionOrder": 5,
+        "focusAreas": [
+          "Chest",
+          "Front Delts",
+          "Side Delts",
+          "Biceps",
+          "Triceps",
+          "Forearms"
+        ],
+        "exercises": [
+          {
+            "name": "Viking Press",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Landmine Press",
+                "sets": 3,
+                "repRange": "6-10"
+              },
+              {
+                "name": "Incline Press",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Cable Lateral Raises",
+            "sets": 3,
+            "repRange": "12-15",
+            "alternates": []
+          },
+          {
+            "name": "EZ-Bar Curls",
+            "sets": 4,
+            "repRange": "8-10",
+            "alternates": [
+              {
+                "name": "EZ-Bar Preacher Curls",
+                "sets": 4,
+                "repRange": "8-10"
+              }
+            ]
+          },
+          {
+            "name": "Crossbody Extensions",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Katana Extensions",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Hammer Curls",
+            "sets": 4,
+            "repRange": "10-12",
+            "alternates": [
+              {
+                "name": "Towel Curls",
+                "sets": 4,
+                "repRange": "10-12"
+              }
+            ]
+          },
+          {
+            "name": "Tricep Pushdowns",
+            "sets": 4,
+            "repRange": "12-15",
+            "alternates": []
+          },
+          {
+            "name": "Finger Curls",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": []
+          }
+        ],
+        "notes": "The program concludes with an Arm day on Saturday, following a training schedule of Monday, Tuesday, then rest on Wednesday, Thursday, Friday, and training again on Saturday. The Saturday session is designed to induce peak fatigue. Sunday serves as a rest day before the commencement of a new weekly cycle on Monday. This is a high-frequency program where daily training volume is moderate but compounds across the week, making effective recovery and volume management crucial for sustained progression.\n\nThe Saturday session functions as an Arm-focused recovery day, intentionally minimizing work on Legs, Posterior Chain, and Upper Back. This day primarily involves Chest work to some extent, with the majority of exercises being isolation movements. This structure results in extremely low nervous system fatigue. This approach promotes recovery, allowing for substantial Limb and Arm development while ensuring the individual is fresh for the Monday session's compound movements.\n\nThe Saturday Arm day commences with a primary pressing movement. Select either Viking Press, Landmine Press, or Incline Press. Perform 3 sets of 6 to 10 repetitions. This targets either the Shoulders or Chest. Following this, execute Cable Lateral Raises for 3 sets of 12 to 15 repetitions, providing Shoulder isolation.\n\nNext, select EZ-Bar Curls or EZ-Bar Preacher Curls, performing 4 sets of 8 to 10 repetitions. Continue with Crossbody or Katana Triceps Extensions for 4 sets of 8 to 12 repetitions, targeting the long head of the Triceps. Then, perform Hammer or Towel Curls (where a towel is wrapped around a plate for curls) for 4 sets of 10 to 12 repetitions. This is followed by Triceps Pushdowns for 4 sets of 12 to 15 repetitions, and Finger Curls for 4 sets of 10 to 15 repetitions.\n\nThis session concludes with isolated Forearm and Tricep work. Nucleus overload is not applied on this day, preserving freshness for the next training week. Across the entire program, burnout sets are systematically replaced by nucleus overload."
+      }
+    ],
+    "isActive": false,
+    "metadata": {
+      "requestParams": {
+        "planName": "Kratos Program",
+        "trainingDays": 5
+      }
+    }
+  },
+  {
+    "source": "predefined",
+    "planName": "Guts Program",
+    "programTheme": "Guts from Berserk",
+    "imageKey": "/uploads/workout-1754393773434-680158585.webp",
+    "prioritizedMuscles": [
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Abs",
+      "Upper Back"
+    ],
+    "neutralPoints": [
+      "Neck",
+      "Rear Delts",
+      "Front Delts",
+      "Lats",
+      "Traps",
+      "Forearms"
+    ],
+    "weakPoints": [
+      "Calves",
+      "Hamstrings",
+      "Quads",
+      "Glutes",
+      "Lower Back",
+      "Side Delts"
+    ],
+    "trainingDays": 4,
+    "sessions": [
+      {
+        "sessionOrder": 1,
+        "focusAreas": [
+          "Chest",
+          "Lats",
+          "Front Delts",
+          "Biceps",
+          "Upper Back",
+          "Rear Delts",
+          "Triceps",
+          "Abs",
+          "Neck"
+        ],
+        "exercises": [
+          {
+            "name": "Bench Press",
+            "sets": 4,
+            "repRange": "4-8",
+            "alternates": [
+              {
+                "name": "Dips",
+                "sets": 4,
+                "repRange": "4-8"
+              },
+              {
+                "name": "Weighted Push-Ups",
+                "sets": 4,
+                "repRange": "4-8"
+              }
+            ]
+          },
+          {
+            "name": "Pullovers",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Barbell Overhead Press",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "DB Overhead Press",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Weighted Chin-Ups",
+            "sets": 3,
+            "repRange": "6-8",
+            "alternates": [
+              {
+                "name": "Supinated Inverse Rows",
+                "sets": 3,
+                "repRange": "AMRAP"
+              }
+            ]
+          },
+          {
+            "name": "Diamond Push-Ups",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Behind the Head Tricep Extensions",
+            "sets": 3,
+            "repRange": "6-12",
+            "alternates": []
+          },
+          {
+            "name": "Neck Curls",
+            "sets": 3,
+            "repRange": "12-15",
+            "alternates": []
+          },
+          {
+            "name": "Plank",
+            "sets": 3,
+            "repRange": "60s",
+            "alternates": []
+          }
+        ],
+        "notes": "Monday is designated as an upper body focus day, targeting shoulders, chest, and long head of the triceps. It also includes upper back, neck, and abs, prioritizing a thick neck. The combination of bench press or dips with pullovers opens the session, followed by overhead pressing, weighted chin-ups, and isolation work for triceps, neck, and core. Emphasis is placed on achieving a broad, powerful upper body with daily core engagement."
+      },
+      {
+        "sessionOrder": 2,
+        "focusAreas": [
+          "Upper Back",
+          "Rear Delts",
+          "Traps",
+          "Lats",
+          "Calves",
+          "Biceps",
+          "Hamstrings",
+          "Glutes",
+          "Abs",
+          "Lower Back",
+          "Forearms",
+          "Neck"
+        ],
+        "exercises": [
+          {
+            "name": "Barbell Rows",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Deadlifts",
+                "sets": 3,
+                "repRange": "3"
+              }
+            ]
+          },
+          {
+            "name": "Single Leg Calf Raises",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Zercher Good Mornings",
+            "sets": 4,
+            "repRange": "6-12",
+            "alternates": [
+              {
+                "name": "SSB Good Mornings",
+                "sets": 4,
+                "repRange": "6-12"
+              }
+            ]
+          },
+          {
+            "name": "Weighted Pull-Ups",
+            "sets": 3,
+            "repRange": "5",
+            "alternates": []
+          },
+          {
+            "name": "Leg Raises",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Hyperextensions",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Supinated Finger Curls",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Neck Curls",
+            "sets": 4,
+            "repRange": "10-12",
+            "alternates": []
+          },
+          {
+            "name": "DB Curls",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": []
+          }
+        ],
+        "notes": "Wednesday emphasizes upper back and biceps with options between deadlifts or rows, and includes complementary posterior chain and neck training. Forearm development is incorporated via finger curls. The final sequence includes continuous isolation work for biceps, neck, and lower back, finishing the session with high-volume targeting of accessory muscles."
+      },
+      {
+        "sessionOrder": 3,
+        "focusAreas": [
+          "Biceps",
+          "Triceps",
+          "Upper Back",
+          "Traps",
+          "Chest",
+          "Lats",
+          "Front Delts",
+          "Forearms",
+          "Abs",
+          "Neck"
+        ],
+        "exercises": [
+          {
+            "name": "EZ-Bar Curls",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Barbell Curls",
+                "sets": 4,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Skullcrushers",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "DB Rows",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Close Grip Bench Press",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Diamond Push-Ups",
+                "sets": 3,
+                "repRange": "AMRAP"
+              }
+            ]
+          },
+          {
+            "name": "Hammer Curls",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Hanging Knee Raises",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "DB Overhead Press",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Decline Push-Ups",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Finger Curls",
+            "sets": 3,
+            "repRange": "8-15",
+            "alternates": []
+          },
+          {
+            "name": "Neck Curls",
+            "sets": 3,
+            "repRange": "15-20",
+            "alternates": []
+          }
+        ],
+        "notes": "Friday is primarily an arm day, also involving compound and isolation movements for the upper body and core. It opens with curl variations and triceps isolation, supported by compound pulling and pushing movements. Direct forearm and neck training close the session, reinforcing the theme of rugged aesthetics and maximal upper body development."
+      },
+      {
+        "sessionOrder": 4,
+        "focusAreas": [
+          "Hamstrings",
+          "Quads",
+          "Traps",
+          "Chest",
+          "Lats",
+          "Rear Delts",
+          "Abs",
+          "Side Delts",
+          "Calves"
+        ],
+        "exercises": [
+          {
+            "name": "Deadlifts",
+            "sets": 3,
+            "repRange": "5",
+            "alternates": [
+              {
+                "name": "Zercher Squats",
+                "sets": 3,
+                "repRange": "6-10"
+              },
+              {
+                "name": "SSB Squats",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Shrugs",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Pause Squats",
+            "sets": 3,
+            "repRange": "4",
+            "alternates": [
+              {
+                "name": "Block Pulls",
+                "sets": 3,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Pullovers",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Face Pulls",
+            "sets": 4,
+            "repRange": "12-15",
+            "alternates": []
+          },
+          {
+            "name": "DB Leg Raises",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Lateral Raises",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Calf Raises",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": []
+          }
+        ],
+        "notes": "Saturday focuses on lower body and supporting musculature. A choice between deadlifts and squats begins the day. Follow-up exercises are matched based on that selection. High-rep accessories (face pulls, lateral raises, and leg raises) build shoulders, core, and calves. Pullovers aid recovery and blood flow. This session addresses weak-point leg work while continuing upper back and shoulder development."
+      }
+    ],
+    "isActive": false,
+    "metadata": {
+      "requestParams": {
+        "planName": "Guts Program",
+        "trainingDays": 4
+      }
+    }
+  },
+  {
+    "source": "predefined",
+    "planName": "Doom Slayer Program",
+    "programTheme": "Doom Slayer from Doom Series",
+    "imageKey": "/uploads/workout-1754407786787-346591180.webp",
+    "prioritizedMuscles": [
+      "Rear Delts",
+      "Front Delts",
+      "Chest",
+      "Upper Back",
+      "Traps"
+    ],
+    "neutralPoints": [
+      "Side Delts",
+      "Biceps",
+      "Triceps",
+      "Forearms",
+      "Hamstrings",
+      "Glutes",
+      "Lower Back",
+      "Abs",
+      "Neck"
+    ],
+    "weakPoints": [
+      "Lats",
+      "Quads",
+      "Calves"
+    ],
+    "trainingDays": 6,
+    "sessions": [
+      {
+        "sessionOrder": 1,
+        "focusAreas": [
+          "Upper Back",
+          "Lats",
+          "Abs",
+          "Rear Delts",
+          "Traps",
+          "Neck",
+          "Front Delts",
+          "Biceps",
+          "Forearms"
+        ],
+        "exercises": [
+          {
+            "name": "Barbell Rows",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "T-Bar Rows",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Cable Crunches",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Machine Crunches",
+                "sets": 3,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Machine High Rows",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Lat Pulldowns",
+                "sets": 3,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Upright Rows",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Y-Raises",
+                "sets": 3,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Neck Extensions",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "EZ-Bar Curls",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "DB Curls",
+                "sets": 3,
+                "repRange": "8-12"
+              },
+              {
+                "name": "Cable Curls",
+                "sets": 3,
+                "repRange": "8-12"
+              },
+              {
+                "name": "Barbell Curls",
+                "sets": 3,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Farmer's Carries",
+            "sets": 3,
+            "repRange": "30m",
+            "alternates": [
+              {
+                "name": "Shrugs",
+                "sets": 3,
+                "repRange": "10-15"
+              }
+            ]
+          }
+        ],
+        "notes": "This First Pull Day commences with either a Barbell Rows or a T-bar Rows, performed for 3 sets of 6 to 10 repetitions. These exercises should be executed as full-body movements, avoiding excessive strictness or cheating, to ensure heavy involvement of the Posterior Chain, as they are fundamental compound movements for the entire Back. Immediately following this, perform Cable Crunches or Machine Crunches for the Abs, for 3 sets of 10 to 15 repetitions. For all Back exercises, including Rows, the use of straps is recommended to preserve grip strength, which will be essential for the subsequent extensive Forearm work.\n\nThe next segment involves performing Machine High Rows or Lat Pulldowns, specifically targeting the Teres Major and Minor, and the Lats, for 3 sets of 10 to 15 repetitions. Subsequently, the program indicates to perform Upright Rows or Y-Raises. When executed as intended, these combinations are structured to not impair performance. This sequence provides substantial Lat development, while the Upright Rows or Y-Raises contribute additional Traps and Shoulder work. Adequate Traps development is crucial for the target physique, and Shoulder work is essential. If Upright Rows cause Shoulder discomfort, Y-Raises are a suitable alternative due to their low-impact nature.\n\nFollowing this, Neck Extensions, which represent the first iteration of Neck volume for this day, are performed for 3 sets of 15 to 20 repetitions. For curls, the instruction is to choose between Dumbbell Curls, Barbell Curls, EZ-Bar Curls, or Cable Curls. This introduces the principle of mirror lifts, where, from given options (e.g., Dumbbell, Barbell, EZ-Bar, or Cable Curls), one exercise is selected. While flexibility to change the chosen lift exists, it is recommended to select one to begin with for Pull Day 1 and adhere to it initially. Pull Day 2 will offer an additional choice between two Bicep exercises, allowing for up to four distinct Bicep exercises across the two pull days. This provides significant variation, beneficial for continuous progression. New lifts should only be introduced when necessary for progression, with a preference for sticking to fewer exercises if effective. Utilizing more than one lift per muscle group is expected. This sequence then concludes with performing either Farmer's carries, 3 sets of 30 meters, or Shrugs. This option caters to individuals with higher energy levels who prefer moving heavy weight; Shrugs are a proven alternative for Trap and Neck development if fatigue is a concern. Shrugs, whether with Dumbbells or a Barbell, are executed for 3 sets of 10 to 15 repetitions."
+      },
+      {
+        "sessionOrder": 2,
+        "focusAreas": [
+          "Chest",
+          "Rear Delts",
+          "Front Delts",
+          "Biceps",
+          "Side Delts",
+          "Triceps",
+          "Forearms"
+        ],
+        "exercises": [
+          {
+            "name": "Dips",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Bench Press",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Rear Delt Rows",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Reverse Peck Dec ",
+                "sets": 3,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Barbell Overhead Press",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Seated Overhead Press",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Hammer Curls",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Reverse Curls",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Cable Lateral Raises",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Bulldozer Lateral Raises",
+                "sets": 5,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Crossbody Extensions",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Katana Extensions",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Chest Flies",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Pec Dec",
+                "sets": 4,
+                "repRange": "6-10"
+              }
+            ]
+          }
+        ],
+        "notes": "For Push Day One, the session commences with either Dips or Bench Press. The selection of lift is based on individual preference; while both can be performed, it is recommended to focus on mastering one initially, for 3 sets of 6 to 10 repetitions. Following this, perform Rear Delt Rows or Reverse Pec Deck, which provides additional Upper Back and Traps work, along with direct Rear Delt stimulation. Performance should not significantly decline from starting with a press, as these movements specifically target the Rear Delts, not the front. These exercises are performed for 3 sets of 10 to 15 repetitions. This sequence collectively serves as the primary horizontal press, comprehensively engaging the chest.\n\nNext, transition to a vertical press targeting the Shoulders: Standing Overhead Press or Seated Overhead Press, depending on preference, performed for 4 sets of 8 to 12 repetitions. Immediately after this, execute Hammer Curls or Reverse Curls, selecting the lift that best aligns with individual needs for Biceps or Brachioradialis development, also for 4 sets of 8 to 12 repetitions.\n\nThe session concludes with a series of exercises performed in sequence: Cable Lateral Raises or Bulldozer Lateral Raises, for 4 sets of 10 to 15 repetitions, providing further Shoulder isolation. This is directly followed by Crossbody Extensions or Katana Extensions for the long head of the Triceps, for 4 sets of 8 to 12 repetitions. Finally, an additional Chest exercise that minimizes Shoulder stimulation is performed: Cable Chest Flies or Pec Deck, for 4 sets of 6 to 10 repetitions. This final Chest exercise is included to complement the initial compound press."
+      },
+      {
+        "sessionOrder": 3,
+        "focusAreas": [
+          "Quads",
+          "Hamstrings",
+          "Neck",
+          "Glutes",
+          "Calves",
+          "Lower Back",
+          "Abs"
+        ],
+        "exercises": [
+          {
+            "name": "Barbell Back Squats",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Hack Squats",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Neck Flexions",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "Hyperextensions",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Leg Curls",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Russian Twists",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Windshield Wipers",
+                "sets": 4,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Leg Extensions",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Sissy Squats",
+                "sets": 3,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Seated Calf Raises",
+            "sets": 3,
+            "repRange": "15-20",
+            "alternates": [
+              {
+                "name": "Donkey Calf Raises",
+                "sets": 3,
+                "repRange": "15-20"
+              }
+            ]
+          }
+        ],
+        "notes": "For Leg Day One, it is crucial to manage training volume efficiently, as excessive sets for Quads and Hamstrings are unnecessary; intensity and consistent progression are the primary drivers for growth. The session begins with either Barbell Back Squat or Hack Squat, performed for 3 sets of 6 to 10 repetitions. Immediately following this, perform Neck Flexions, for 3 sets of 10 to 15 repetitions. Next, for Posterior Chain work, choose between Hyperextensions or Leg Curls. Leg Curls target Hamstrings more directly, while Hyperextensions focus on Glutes and the Lower Back; both options are effective and are performed for 4 sets of 8 to 12 repetitions. This is followed by additional Abdominal work, selecting either Russian Twists or Windshield Wipers, for 4 sets of 10 to 15 repetitions, specifically targeting the Obliques. The day concludes with Leg Extensions or Sissy Squats, for 3 sets of 10 to 15 repetitions, providing additional Quad work. This is then followed by Seated or Donkey Calf Raises, for 3 sets of 15 to 20 repetitions. This leg day is designed to be short and effective, ensuring that excessive fatigue from leg training is avoided to preserve energy for the subsequent pull day. Since the upper body is prioritized for the target physique, over-insisting on lower body development would be counterproductive, as the current volume achieves a high percentage of desired results, enabling maximized effort on pull days."
+      },
+      {
+        "sessionOrder": 4,
+        "focusAreas": [
+          "Upper Back",
+          "Lats",
+          "Traps",
+          "Rear Delts",
+          "Forearms",
+          "Biceps",
+          "Hamstrings",
+          "Glutes"
+        ],
+        "exercises": [
+          {
+            "name": "Weighted Pull-Ups",
+            "sets": 3,
+            "repRange": "3-5",
+            "alternates": [
+              {
+                "name": "Weighted Chin-Ups",
+                "sets": 3,
+                "repRange": "3-5"
+              }
+            ]
+          },
+          {
+            "name": "Face Pulls",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Power Raises",
+                "sets": 3,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Kroc Rows",
+            "sets": 4,
+            "repRange": "6-12",
+            "alternates": [
+              {
+                "name": "Meadows Rows",
+                "sets": 4,
+                "repRange": "6-12"
+              }
+            ]
+          },
+          {
+            "name": "Goose Neck Wrist Curls",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Pronation Twists",
+                "sets": 4,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Power Shrugs",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Block Pulls",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Preacher Curls",
+            "sets": 3,
+            "repRange": "6-12",
+            "alternates": [
+              {
+                "name": "Incline Curls",
+                "sets": 3,
+                "repRange": "6-12"
+              }
+            ]
+          }
+        ],
+        "notes": "For Pull Day Two, which is designed to be an intense session following Leg Day, the program instructs to begin with Weighted Pull-Ups or Weighted Chin-Ups, performed for 3 sets of 3 to 5 repetitions, emphasizing low volume and high intensity. This is followed by Face Pulls or Powell Raises, targeting Shoulders, Rear Delts, and Traps, for 3 sets of 10 to 15 repetitions.\n\nNext, the program includes either Kroc Rows (for traps, lats, and upper back) or Meadows Rows. Both variations are effective and can be alternated weekly without disrupting progression due to their similar muscle targeting. These are performed for 4 sets of 6 to 12 repetitions. Immediately following, perform Goose Neck Wrist Curls, or Pronation Twists, specifically for Forearm development, for 4 sets of 10 to 15 repetitions. It is essential to use straps for Kroc Rows or Meadows Rows to ensure grip strength is preserved for subsequent Forearm development exercises.\n\nThe overall structure of this session, a proper back day, centers on one vertical pull, one horizontal pull, and one shrug pattern. This volume is ample when executed intensely, contributing to significant back development with two such days per week. Following these back exercises, perform Preacher Curls (Dumbbell or EZ-bar) or Incline Curls. The rep range for these is 3 sets of 6 to 12 repetitions. This wide rep range is a strategic mechanism to facilitate progression: by allowing drops to the lower end of the range (6 reps), it becomes easier to increase weight, accumulate reps, and build up to the higher end (12 reps) before progressing in weight again, thus preventing plateaus and ensuring continuous growth."
+      },
+      {
+        "sessionOrder": 5,
+        "focusAreas": [
+          "Chest",
+          "Neck",
+          "Abs",
+          "Forearms",
+          "Triceps",
+          "Biceps"
+        ],
+        "exercises": [
+          {
+            "name": "Incline Press",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Incline Smith Machine Press",
+                "sets": 3,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Neck Flexions",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Neck Extensions",
+                "sets": 3,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Converging Chest Press",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Weighted Push-Ups",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Decline Sit-Ups",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Dragon Flags",
+                "sets": 3,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Barbell JM Press",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "DB Skullcrushers",
+                "sets": 4,
+                "repRange": "8-12"
+              },
+              {
+                "name": "EZ-Bar Skullcrushers",
+                "sets": 4,
+                "repRange": "8-12"
+              },
+              {
+                "name": "Smith Machine JM Press",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Hangman Curls",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Hammer Preacher Curls",
+                "sets": 4,
+                "repRange": "6-10"
+              }
+            ]
+          }
+        ],
+        "notes": "For the Second Push Day, the training initiates with a vertical pressing pattern, mirroring the structure of the second pull day. This rotational approach to starting patterns ensures that training priority is evenly distributed across all movement types throughout the week, preventing over-emphasis on any single pattern.\n\nThe session begins with either an Incline Press (Dumbbell or Barbell) or an Incline Smith Press, performed for 3 sets of 8 to 12 repetitions. Immediately following this, execute Neck Flexions or Extensions, representing the third iteration of Neck volume for the week; the specific exercise choice should target the area desired for most development, for 3 sets of 10 to 15 repetitions.\n\nSubsequently, perform Converging Chest Press (utilizing any preferred chest machine) or Weighted Push-Ups, for 3 sets of 6 to 10 repetitions. This is then followed by Decline Sit-Ups or Dragon Flags for Abdominal work, for 3 sets of 8 to 12 repetitions. This day ends with focused arm training, beginning with a Triceps-biased press like the JM Press or variations such as Skull-Crushers, aimed at hitting the long head through stable movement patterns. This is followed by a Biceps Curl variation like Hangman Curls or Hammer Preacher Curls, designed to train the Brachialis and long head of the Biceps under controlled conditions. Each is performed for 4 sets within hypertrophy rep ranges, ensuring arm stimulation without excess fatigue. These isolation-focused movements complement prior compound work and round out the session with balanced arm development."
+      },
+      {
+        "sessionOrder": 6,
+        "focusAreas": [
+          "Glutes",
+          "Hamstrings",
+          "Rear Delts",
+          "Quads",
+          "Calves",
+          "Traps",
+          "Forearms",
+          "Lower Back"
+        ],
+        "exercises": [
+          {
+            "name": "RDLs",
+            "sets": 2,
+            "repRange": "6-12",
+            "alternates": [
+              {
+                "name": "Good Mornings",
+                "sets": 2,
+                "repRange": "6-12"
+              }
+            ]
+          },
+          {
+            "name": "DB Rear Delt Swings",
+            "sets": 2,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Incline DB Shrugs",
+                "sets": 2,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Smith Machine Squats",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Leg Press",
+                "sets": 3,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Standing Calf Raises",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Seated Calf Raises",
+                "sets": 3,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Glute Ham Raises",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Nordic Hamstring Curls",
+                "sets": 3,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Dead Hangs",
+            "sets": 3,
+            "repRange": "60s",
+            "alternates": [
+              {
+                "name": "Wrist Roller Extensions",
+                "sets": 3,
+                "repRange": "AMRAP"
+              }
+            ]
+          }
+        ],
+        "notes": "This second leg day is designed to deliver high returns with minimal volume, especially as you approach the end of a training cycle when fatigue is at its peak. The goal is not to bury you under excessive work, but to get the most out of every set.\n\nStart with Romanian Deadlifts or Good Mornings. These movements heavily target the Posterior Chain(Glutes, Hamstrings, and Lower Back). Perform just two sets of 6 to 12 reps. There's no need for more volume here; you can make excellent progress with high-quality effort in just two sets.\n\nNext, move to either Dumbbell Rear Delt Swings or Incline Dumbbell Shrugs. Again, perform two sets of 8 to 12 reps. This targets either the Rear Delts or Traps. At this point in the program, your fatigue is likely peaking, so select the movement based on what you can execute with solid form. Rear Delt work is optional if you're unable to perform it effectively; however, Trap work tends to recover more easily and is generally manageable.\\n\\nAfter that, perform Smith Machine Squats or Leg Press for three sets of 8 to 12 reps. These options are chosen specifically to reduce Lower Back fatigue while still challenging the Quads. In contrast to traditional Barbell Squats, these movements offload the Lower Back, helping to preserve your pulling capacity for Deadlift-focused days.\n\nThen, complete Calf Raises using the same machine you used for the Quad movement, either Smith machine Standing Calf Raises or Leg Press Calf Raises, depending on your setup. Perform three sets of 10 to 15 reps. The idea is to simplify transitions and reduce setup time while still hitting the Calves effectively.\n\nTo round out the Posterior Chain, include Glute-Ham Raises (GHR) or Nordic Hamstring Curls for three sets of 10 to 15 reps. This helps ensure comprehensive Hamstring and Glute development without overloading the Lower Back.\n\nFinally, the session ends with Forearm and grip work. Perform Dead Hangs for three sets of one minute. Dead Hangs are deceptively taxing, particularly on the Forearms, so they should be kept brief and focused. As an alternative or follow-up, use a Wrist Roller for extension work, roll the weight outward to train Wrist Extension, a movement pattern often neglected in favor of Wrist Flexion. Strengthening Wrist Extensors not only improves Forearm balance and aesthetics but also protects elbow health over time."
+      }
+    ],
+    "isActive": false,
+    "metadata": {
+      "requestParams": {
+        "planName": "Doom Slayer Program",
+        "trainingDays": 6
+      }
+    }
+  },
+  {
+    "source": "predefined",
+    "planName": "Baki Hanma Program",
+    "programTheme": "Baki Hanma from Baki the Grappler",
+    "imageKey": "/uploads/workout-1754391520357-970976871.png",
+    "prioritizedMuscles": [
+      "Quads",
+      "Abs",
+      "Upper Back",
+      "Front Delts",
+      "Side Delts",
+      "Rear Delts"
+    ],
+    "neutralPoints": [
+      "Traps",
+      "Chest",
+      "Neck",
+      "Glutes",
+      "Hamstrings",
+      "Lower Back"
+    ],
+    "weakPoints": [
+      "Biceps",
+      "Triceps",
+      "Calves",
+      "Lats",
+      "Forearms"
+    ],
+    "trainingDays": 3,
+    "sessions": [
+      {
+        "sessionOrder": 1,
+        "focusAreas": [
+          "Glutes",
+          "Quads",
+          "Hamstrings",
+          "Traps",
+          "Upper Back",
+          "Lats",
+          "Triceps",
+          "Lower Back",
+          "Rear Delts",
+          "Chest",
+          "Abs",
+          "Neck",
+          "Calves",
+          "Biceps"
+        ],
+        "exercises": [
+          {
+            "name": "Barbell Squats",
+            "sets": 3,
+            "repRange": "3-5",
+            "alternates": [
+              {
+                "name": "Smith Machine Squats",
+                "sets": 3,
+                "repRange": "3-5"
+              }
+            ]
+          },
+          {
+            "name": "Band Shrugs",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Rack Pulls",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Block Pulls",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Weighted Pull-Ups",
+            "sets": 4,
+            "repRange": "3-5",
+            "alternates": []
+          },
+          {
+            "name": "Close Grip Bench Press",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Band Curls",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Hyperextensions",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Face Pulls",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Decline Push-Ups",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Leg Raises",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Neck Curls",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Band Calf Raises",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "This session initiates the training week with a strong emphasis on foundational compound movements and upper-body pulling. The use of barbell or Smith machine squats delivers a heavy quad and glute stimulus, while the inclusion of rack or block pulls allows for high-volume upper back and trap development without over-fatiguing the lower back.\n\nWeighted pull-ups and close grip bench press serve as efficient compound upper-body movements that load the lats, chest, and triceps. Accessory work like band shrugs and face pulls target traps and rear delts to round out shoulder development.\n\nDecline push-ups provide a chest-focused finisher with a bodyweight hypertrophy stimulus, while band curls and hyperextensions support arm and posterior chain growth respectively.\n\nNeck curls and band calf raises contribute to the program’s aesthetic focus on neck and lower leg thickness, and the entire session maintains a well-balanced mix of anterior/posterior loading with manageable fatigue."
+      },
+      {
+        "sessionOrder": 2,
+        "focusAreas": [
+          "Traps",
+          "Chest",
+          "Hamstrings",
+          "Glutes",
+          "Upper Back",
+          "Lats",
+          "Biceps",
+          "Quads",
+          "Forearms",
+          "Abs",
+          "Rear Delts",
+          "Neck",
+          "Calves"
+        ],
+        "exercises": [
+          {
+            "name": "Bench Press",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Band Shrugs",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Deficit Deadlifts",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Weighted Chin-Ups",
+            "sets": 3,
+            "repRange": "4-6",
+            "alternates": []
+          },
+          {
+            "name": "Plates Lunges",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Wrist Curls",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Band Good Mornings",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Hanging Leg Raises",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Ring Rows",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Crunches",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Neck Side Raises",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Band Calf Raises",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "The second training day shifts the emphasis slightly toward posterior chain and core development. Deficit deadlifts are a central lift here, promoting deeper range hip extension and hamstring recruitment.\n\nBench press introduces more traditional horizontal pressing volume, complementing the close grip bench press from Day 1. Plate lunges add unilateral quad and glute work without introducing excess systemic fatigue.\n\nUpper body pulling volume remains high through weighted chin-ups and ring rows, which provide both vertical and horizontal pull variations. Wrist curls are incorporated mid-session to ensure forearm and grip development are not neglected.\n\nThis day also includes a dense amount of core and neck volume, with hanging leg raises, crunches, and neck side raises working in tandem to build midline stability and neck thickness.\n\nBand shrugs and band good mornings continue the trap and lower back work in a lower-intensity fashion, and band calf raises provide another dose of calf stimulus without high CNS cost."
+      },
+      {
+        "sessionOrder": 3,
+        "focusAreas": [
+          "Hamstrings",
+          "Quads",
+          "Traps",
+          "Glutes",
+          "Upper Back",
+          "Lats",
+          "Front Delts",
+          "Triceps",
+          "Biceps",
+          "Chest",
+          "Rear Delts",
+          "Abs",
+          "Neck",
+          "Calves"
+        ],
+        "exercises": [
+          {
+            "name": "Deadlifts",
+            "sets": 2,
+            "repRange": "2-5",
+            "alternates": []
+          },
+          {
+            "name": "Band Shrugs",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Pause Squats",
+            "sets": 4,
+            "repRange": "4-8",
+            "alternates": []
+          },
+          {
+            "name": "Weighted Pull-Ups",
+            "sets": 4,
+            "repRange": "3-5",
+            "alternates": []
+          },
+          {
+            "name": "Barbell Overhead Press",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Behind the Head Band Extensions",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Ring Push-Ups",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "DB Curls",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Cable Curls",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Ring Rows",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Leg Raises",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Neck Extensions",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Band Calf Raises",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "The final session of the week is built around the heavy deadlift and overhead press combination, both of which place substantial demands on the entire body and nervous system. This day is carefully constructed to avoid unnecessary overlap with earlier sessions by limiting deadlift volume and following with pause squats to provide quad stimulus without taxing the spine.\n\nOverhead pressing fills the vertical push gap, reinforcing deltoid and triceps development. Ring push-ups and ring rows are bodyweight-based accessories that encourage scapular control and core stability while further supporting chest and back volume.\n\nArm isolation is continued with behind-the-head band triceps extensions and DB or cable curls, allowing elbow-friendly hypertrophy without excessive stress.\n\nCore, neck, and calves are again addressed at the end of the session with leg raises, band calf raises, and neck extensions.\n\nThe week closes with a balanced, moderately intense full-body session that completes the program’s volume targets without compromising recovery."
+      }
+    ],
+    "isActive": false,
+    "metadata": {
+      "requestParams": {
+        "planName": "Baki Hanma Program",
+        "trainingDays": 3
+      }
+    }
+  },
+  {
+    "source": "predefined",
+    "planName": "Tokita Ohma Program",
+    "programTheme": "Tokita Ohma from Kengan Ashura",
+    "imageKey": "/uploads/workout-1754389019802-490589325.png",
+    "prioritizedMuscles": [
+      "Chest",
+      "Abs"
+    ],
+    "neutralPoints": [
+      "Front Delts",
+      "Side Delts",
+      "Rear Delts",
+      "Traps",
+      "Biceps",
+      "Upper Back",
+      "Calves",
+      "Lats"
+    ],
+    "weakPoints": [
+      "Quads",
+      "Hamstrings",
+      "Glutes",
+      "Lower Back",
+      "Triceps",
+      "Neck",
+      "Forearms"
+    ],
+    "trainingDays": 4,
+    "sessions": [
+      {
+        "sessionOrder": 1,
+        "focusAreas": [
+          "Chest",
+          "Front Delts",
+          "Upper Back",
+          "Biceps",
+          "Lats",
+          "Abs",
+          "Calves"
+        ],
+        "exercises": [
+          {
+            "name": "Bench Press",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "DB Shoulder Press",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Weighted Chin-Ups",
+            "sets": 4,
+            "repRange": "3-6",
+            "alternates": []
+          },
+          {
+            "name": "Barbell Curls",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Cable Curls",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Hanging Knee Raises",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Face Pulls",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Push-Ups",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Lateral Raises",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Calf Raises",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "This session emphasizes horizontal pressing movements to target the chest and vertical pressing to develop the shoulders. Because the program involves a high volume of pressing exercises, there is a strong focus on face pulls to ensure balanced shoulder development—specifically targeting the rear delts and traps. This balance is crucial for maintaining shoulder health and preventing imbalances that can lead to injury. By the end of the workout, the chest, shoulders, and triceps will have been thoroughly worked, receiving a heavy training stimulus to drive growth and strength.\n\nThe triceps receive ample stimulation through the pressing movements, so isolated tricep work is unnecessary. Adding direct tricep exercises could hinder chest recovery, especially since the two compound presses performed during the session already provide sufficient triceps activation."
+      },
+      {
+        "sessionOrder": 2,
+        "focusAreas": [
+          "Hamstrings",
+          "Glutes",
+          "Quads",
+          "Upper Back",
+          "Lats",
+          "Forearms",
+          "Abs",
+          "Calves"
+        ],
+        "exercises": [
+          {
+            "name": "Good Mornings",
+            "sets": 3,
+            "repRange": "6-12",
+            "alternates": []
+          },
+          {
+            "name": "Lunges",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "Pull-Ups",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Finger Curls",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Hanging Knee Raises",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Calf Raises",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "Good Mornings are included instead of squats or deadlifts, reflecting the lower priority of leg development in this program. They effectively target the hamstrings and glutes. Lunges are used to focus on the quads and knee flexion. Together, these two exercises provide sufficient volume to maintain leg training without overemphasizing lower-body development."
+      },
+      {
+        "sessionOrder": 3,
+        "focusAreas": [
+          "Front Delts",
+          "Rear Delts",
+          "Chest",
+          "Traps",
+          "Biceps",
+          "Calves"
+        ],
+        "exercises": [
+          {
+            "name": "Barbell Overhead Press",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Pause Bench Press",
+            "sets": 4,
+            "repRange": "4-8",
+            "alternates": []
+          },
+          {
+            "name": "Face Pulls",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Preacher Curls",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Bent Over Lateral Raises",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Calf Raises",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "This workout begins with a vertical pressing movement to target the shoulders, followed by a horizontal press to emphasize the chest. Given the two compound pressing exercises, face pulls are included to support shoulder health by strengthening the rear delts and traps, helping to maintain balance and prevent injury. The session then continues with focused work on the biceps and rear delts—important for supporting pressing movements and ensuring well-rounded shoulder development."
+      },
+      {
+        "sessionOrder": 4,
+        "focusAreas": [
+          "Quads",
+          "Glutes",
+          "Chest",
+          "Upper Back",
+          "Lats",
+          "Triceps",
+          "Rear Delts",
+          "Traps",
+          "Abs"
+        ],
+        "exercises": [
+          {
+            "name": "Reverse Lunges",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "Chest Flies",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "Weighted Pull-Ups",
+            "sets": 4,
+            "repRange": "3-6",
+            "alternates": []
+          },
+          {
+            "name": "Push-Ups",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Tricep Extensions",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Face Pulls",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Leg Raises",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "The last session of the week is a full-body day, designed to complement the program while addressing the lower body—one of the weaker areas—without dedicating a separate leg day, as lower body has a low priority in this program. Reverse lunges are included to effectively stimulate the quads, glutes, and hamstrings.\n\nFor the chest, this day features accessory work such as chest flies, along with a horizontal pressing movement using bodyweight push-ups. Since compound chest exercises were the focus in the previous session, these accessories provide additional but less intense chest stimulation.\n\nFace pulls are included again to maintain shoulder health, especially important given that chest is trained on three separate days throughout the week.\n\nThere is only one direct triceps isolation exercise in the entire week, and it is placed on this final day. This placement is intentional because the triceps receive substantial activation during compound chest presses, and isolating them too much could interfere with chest recovery. Since push-ups are less demanding than heavy compound presses and this day mainly focuses on accessory chest work, adding minimal triceps isolation here allows for some direct triceps stimulus without compromising recovery. Overall, triceps volume is kept very low to prioritize chest development."
+      }
+    ],
+    "isActive": false,
+    "metadata": {
+      "requestParams": {
+        "planName": "Tokita Ohma Program",
+        "trainingDays": 4
+      }
+    }
+  },
+  {
+    "source": "predefined",
+    "planName": "Zodd Program",
+    "programTheme": "Zodd from Berserk",
+    "imageKey": "/uploads/workout-1754397305963-148165095.jpg",
+    "prioritizedMuscles": [
+      "Biceps",
+      "Triceps",
+      "Upper Back",
+      "Front Delts",
+      "Side Delts",
+      "Rear Delts"
+    ],
+    "neutralPoints": [
+      "Quads",
+      "Calves",
+      "Abs",
+      "Traps",
+      "Forearms",
+      "Neck",
+      "Lats"
+    ],
+    "weakPoints": [
+      "Glutes",
+      "Hamstrings",
+      "Lower Back",
+      "Chest"
+    ],
+    "trainingDays": 5,
+    "sessions": [
+      {
+        "sessionOrder": 1,
+        "focusAreas": [
+          "Neck",
+          "Hamstrings",
+          "Glutes",
+          "Front Delts",
+          "Rear Delts",
+          "Upper Back",
+          "Triceps",
+          "Lats",
+          "Traps",
+          "Chest",
+          "Forearms",
+          "Biceps",
+          "Abs"
+        ],
+        "exercises": [
+          {
+            "name": "Farmer's Walk",
+            "sets": 3,
+            "repRange": "30m",
+            "alternates": [
+              {
+                "name": "Block Pulls",
+                "sets": 3,
+                "repRange": "12-15"
+              },
+              {
+                "name": "Rack Pulls",
+                "sets": 3,
+                "repRange": "12-15"
+              }
+            ]
+          },
+          {
+            "name": "DB Curls",
+            "sets": 3,
+            "repRange": "10-12",
+            "alternates": [
+              {
+                "name": "Cable Curls",
+                "sets": 3,
+                "repRange": "10-12"
+              }
+            ]
+          },
+          {
+            "name": "DB Overhead Press",
+            "sets": 4,
+            "repRange": "6-12",
+            "alternates": [
+              {
+                "name": "Barbell Overhead Press",
+                "sets": 4,
+                "repRange": "6-12"
+              }
+            ]
+          },
+          {
+            "name": "Bent Over Lateral Raises",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "DB Triceps Extensions",
+            "sets": 4,
+            "repRange": "8-14",
+            "alternates": [
+              {
+                "name": "Cable Triceps Extensions",
+                "sets": 4,
+                "repRange": "8-14"
+              }
+            ]
+          },
+          {
+            "name": "Cable Rows",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "DB Bench Press",
+                "sets": 4,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Finger Curls",
+            "sets": 4,
+            "repRange": "12-15",
+            "alternates": [
+              {
+                "name": "Hammer Curls",
+                "sets": 4,
+                "repRange": "12-15"
+              }
+            ]
+          },
+          {
+            "name": "Windshield Wipers",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Neck Curls",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "The first exercise is either Farmer's Carries or Rack or Block Pulls, both excellent for Traps and Upper back development. Farmer's Carries tax the entire system, including grip and Core, while Rack or Block Pulls emphasize Upper Back with less Lower Back fatigue. Rotate or choose based on how you feel. Follow this with Biceps isolation early in the session to target Arms. Overhead Press serves as the primary vertical press for Shoulder development, with Bent-Over Lateral Raises balancing by targeting Rear Delts. Triceps extensions add volume to arms. Finish with Cable Rows or DB Bench Press for Upper Back or Chest, plus Forearm Curls, Windshield Wipers for core, and Neck Curls."
+      },
+      {
+        "sessionOrder": 2,
+        "focusAreas": [
+          "Glutes",
+          "Quads",
+          "Lower Back",
+          "Hamstrings",
+          "Calves",
+          "Lats",
+          "Forearms"
+        ],
+        "exercises": [
+          {
+            "name": "Barbell Squats",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "SSB Squats",
+                "sets": 4,
+                "repRange": "6-10"
+              },
+              {
+                "name": "Belt Squats",
+                "sets": 4,
+                "repRange": "8-12"
+              },
+              {
+                "name": "Hack Squats",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Sitting Calf Raises",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Lat Pulldowns",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "DB Hyperextensions",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": [
+              {
+                "name": "Leg Curls",
+                "sets": 4,
+                "repRange": "15-20"
+              }
+            ]
+          },
+          {
+            "name": "Single Leg Press",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Split Squats",
+                "sets": 4,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Hip Thrusts",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Single Leg RDLs",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Captain of Crush Grippers",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "Start with heavy knee flexion movement options (Barbell Squats, SSB, Belt or Hack Squats) aiming for hypertrophy range. Sitting Calf Raises cover Calves. Lat Pulldowns and Hamstring and Glute-focused exercises (Hyperextensions or Leg Curls) develop Posterior Chain. Single-Leg Pressing and Hip Thrust variants increase Unilateral Leg and Glute work while protecting the Lower Back. Finish with grip training for Forearms."
+      },
+      {
+        "sessionOrder": 3,
+        "focusAreas": [
+          "Front Delts",
+          "Rear Delts",
+          "Traps",
+          "Side Delts",
+          "Upper Back",
+          "Lats",
+          "Triceps",
+          "Chest",
+          "Biceps",
+          "Abs",
+          "Neck"
+        ],
+        "exercises": [
+          {
+            "name": "Incline Press",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Viking Press",
+                "sets": 4,
+                "repRange": "6-10"
+              },
+              {
+                "name": "Decline Push-Ups",
+                "sets": 4,
+                "repRange": "AMRAP"
+              },
+              {
+                "name": "Handstand Push-Ups",
+                "sets": 4,
+                "repRange": "AMRAP"
+              }
+            ]
+          },
+          {
+            "name": "Face Pulls",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Weighted Chin-Ups",
+            "sets": 4,
+            "repRange": "4-8",
+            "alternates": [
+              {
+                "name": "Supinted Lat Pulldowns",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Skullcrushers",
+            "sets": 4,
+            "repRange": "6-12",
+            "alternates": [
+              {
+                "name": "French Press",
+                "sets": 4,
+                "repRange": "6-12"
+              }
+            ]
+          },
+          {
+            "name": "Chest Flies",
+            "sets": 4,
+            "repRange": "8-20",
+            "alternates": [
+              {
+                "name": "Preacher Culrs",
+                "sets": 4,
+                "repRange": "8-20"
+              }
+            ]
+          },
+          {
+            "name": "Upright Rows",
+            "sets": 4,
+            "repRange": "10-12",
+            "alternates": [
+              {
+                "name": "Lateral Raises",
+                "sets": 4,
+                "repRange": "10-12"
+              }
+            ]
+          },
+          {
+            "name": "Leg Raises",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Neck Side Raises",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "This session starts with hybrid pressing movements focusing on Shoulders and Chest, balancing volume to prioritize Delts. Face Pulls promote Shoulder health by targeting Rear Delts and external Rotators. Weighted Chin-Ups or Lat Pulldowns increase vertical pulling volume. Triceps get direct work through Skull Crushers or French Press. Chest Flies or Preacher Curls add an option for Chest or Biceps focus, respectively. Upright Rows or Lateral Raises further develop Shoulders. Finish with Core isolation via Leg Raises."
+      },
+      {
+        "sessionOrder": 4,
+        "focusAreas": [
+          "Hamstrings",
+          "Glutes",
+          "Lower Back",
+          "Calves",
+          "Quads",
+          "Upper Back",
+          "Forearms",
+          "Traps"
+        ],
+        "exercises": [
+          {
+            "name": "Deadlifts",
+            "sets": 3,
+            "repRange": "5",
+            "alternates": [
+              {
+                "name": "RDL",
+                "sets": 4,
+                "repRange": "8-12"
+              },
+              {
+                "name": "Good Mornings",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Standing Calf Raises",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "Hang Cleans",
+            "sets": 4,
+            "repRange": "8-10",
+            "alternates": [
+              {
+                "name": "Power Cleans",
+                "sets": 4,
+                "repRange": "8-10"
+              }
+            ]
+          },
+          {
+            "name": "Glute Ham Raises",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Snatch Grip Extensions",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Towel Grips",
+            "sets": 4,
+            "repRange": "15-30s",
+            "alternates": []
+          },
+          {
+            "name": "Hack Squats",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Leg Press",
+                "sets": 4,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Barbell Snatch Grip Shrugs",
+            "sets": 4,
+            "repRange": "12-15",
+            "alternates": [
+              {
+                "name": "DB Shrugs",
+                "sets": 4,
+                "repRange": "12-15"
+              }
+            ]
+          },
+          {
+            "name": "Captain of Crush Grippers",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "Heavy hip hinge movements begin the session, focusing on Hamstrings, Glutes, and Lower Back. Calf Raises maintain Lower Leg volume. Olympic lift variations add Yoke and Upper Back development. GHR or Snatch-Grip Hyperextensions continue Posterior Chain work. Forearm grip strength is developed through Towel Grips and Captain of Crush Grippers. Hack Squats or Leg Presses provide Quad focus without taxing the Spine. Upper Back Shrugs finish to enhance Trap and Yoke thickness."
+      },
+      {
+        "sessionOrder": 5,
+        "focusAreas": [
+          "Neck",
+          "Triceps",
+          "Chest",
+          "Upper Back",
+          "Traps",
+          "Lats",
+          "Side Delts",
+          "Biceps",
+          "Forearms",
+          "Abs"
+        ],
+        "exercises": [
+          {
+            "name": "Close Grip Bench Press",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Dips",
+                "sets": 4,
+                "repRange": "6-10"
+              },
+              {
+                "name": "Diamond Push-Ups",
+                "sets": 4,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Seal Rows",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Pendlay Rows",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Barbell Curls",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "EZ-Bar Curls",
+                "sets": 4,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Tricep Pushdowns",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "Arnold Lateral Raises",
+            "sets": 4,
+            "repRange": "12-15",
+            "alternates": [
+              {
+                "name": "Lu Raises",
+                "sets": 4,
+                "repRange": "12-15"
+              }
+            ]
+          },
+          {
+            "name": "Towel Curls",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Pinwheel Curls",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Reverse Curls",
+            "sets": 4,
+            "repRange": "10-12",
+            "alternates": [
+              {
+                "name": "Supinated Finger Curls",
+                "sets": 4,
+                "repRange": "10-12"
+              }
+            ]
+          },
+          {
+            "name": "Decline Sit-Ups",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Neck Extensions",
+            "sets": 3,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "Arm day is placed last, starting with compound presses like Close-Grip Bench or Dips to hit Chest, Shoulders, and Triceps. Rows develop back thickness. Direct Arm work follows with Barbell or EZ Bar Curls and Triceps Pushdowns. Lateral Raises maintain Shoulder volume. Forearms get extensive attention through Towel or Pinwheel Curls and Reverse or Supinated Finger Curls. The session closes with Core work via Decline Sit-Ups."
+      }
+    ],
+    "isActive": false,
+    "metadata": {
+      "requestParams": {
+        "planName": "Zodd Program",
+        "trainingDays": 5
+      }
+    }
+  },
+  {
+    "source": "predefined",
+    "planName": "Toji Program",
+    "programTheme": "Toji Fushiguro from Jujutsu Kaisen",
+    "imageKey": "/uploads/workout-1753944687728-261403378.jpeg",
+    "prioritizedMuscles": [
+      "Front Delts",
+      "Side Delts",
+      "Rear Delts",
+      "Traps",
+      "Lats",
+      "Neck",
+      "Abs"
+    ],
+    "neutralPoints": [
+      "Chest",
+      "Biceps",
+      "Triceps",
+      "Forearms",
+      "Upper Back"
+    ],
+    "weakPoints": [
+      "Calves",
+      "Hamstrings",
+      "Quads",
+      "Lower Back",
+      "Glutes"
+    ],
+    "trainingDays": 4,
+    "sessions": [
+      {
+        "sessionOrder": 1,
+        "focusAreas": [
+          "Chest",
+          "Side Delts",
+          "Traps",
+          "Abs",
+          "Lats",
+          "Upper Back",
+          "Quads",
+          "Glutes"
+        ],
+        "exercises": [
+          {
+            "name": "Weighted Dips",
+            "sets": 4,
+            "repRange": "4-8",
+            "alternates": []
+          },
+          {
+            "name": "Power Shrugs",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Cable Lateral Raises",
+            "sets": 4,
+            "repRange": "6-12",
+            "alternates": []
+          },
+          {
+            "name": "Weighted Sit-Ups",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Weighted Chin-Ups",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Split Squats",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          }
+        ],
+        "notes": "This day emphasizes heavy pressing and pulling to hit major upper body muscles, with added core and unilateral leg work to support balance and injury prevention."
+      },
+      {
+        "sessionOrder": 2,
+        "focusAreas": [
+          "Front Delts",
+          "Biceps",
+          "Forearms",
+          "Triceps",
+          "Neck",
+          "Upper Back",
+          "Traps",
+          "Lats",
+          "Rear Delts"
+        ],
+        "exercises": [
+          {
+            "name": "Dumbell Overhead Press",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Hammer Curls",
+            "sets": 4,
+            "repRange": "6-12",
+            "alternates": []
+          },
+          {
+            "name": "Cable Katana Extensions",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Kroc Rows",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Machine Reverse Flies",
+            "sets": 4,
+            "repRange": "12-15",
+            "alternates": []
+          }
+        ],
+        "notes": "High-volume day to target hypertrophy in arms, neck, and upper back. Isolation work avoids systemic fatigue while reinforcing key visual and functional areas."
+      },
+      {
+        "sessionOrder": 3,
+        "focusAreas": [
+          "Chest",
+          "Biceps",
+          "Lats",
+          "Abs",
+          "Front Delts",
+          "Traps",
+          "Glutes",
+          "Quads"
+        ],
+        "exercises": [
+          {
+            "name": "Close Grip Bench Press",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Ez-Bar Preacher Curls",
+            "sets": 3,
+            "repRange": "6-12",
+            "alternates": []
+          },
+          {
+            "name": "Pullovers",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Weighted Russian Twists",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "Upright Rows",
+            "sets": 3,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "Leg Press",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": []
+          }
+        ],
+        "notes": "Lower volume, moderate intensity. Keeps blood flowing to key muscle groups without interfering with recovery or performance for Day 4."
+      },
+      {
+        "sessionOrder": 4,
+        "focusAreas": [
+          "Front Delts",
+          "Neck",
+          "Upper Back",
+          "Triceps",
+          "Traps",
+          "Lats",
+          "Forearms",
+          "Rear Delts"
+        ],
+        "exercises": [
+          {
+            "name": "Machine Shoulder Press",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Neck Extensions",
+            "sets": 3,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Incline Dumbell Rows",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Tricep Pushdowns",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": []
+          },
+          {
+            "name": "Farmer's Carries",
+            "sets": 3,
+            "repRange": "30",
+            "alternates": []
+          },
+          {
+            "name": "Y-Raises",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": []
+          }
+        ],
+        "notes": "Closes the week by reinforcing the Toji archetype—strong neck, traps, grip, and rear delts. Focus is on intensity and refinement."
+      }
+    ],
+    "isActive": false,
+    "metadata": {
+      "requestParams": {
+        "planName": "Toji Program",
+        "trainingDays": 4
+      }
+    }
+  },
+  {
+    "source": "predefined",
+    "planName": "Superman Program",
+    "programTheme": "Superman from Man of Steel",
+    "imageKey": "/uploads/workout-1754401317050-154129347.webp",
+    "prioritizedMuscles": [
+      "Front Delts",
+      "Side Delts",
+      "Traps",
+      "Biceps"
+    ],
+    "neutralPoints": [
+      "Upper Back",
+      "Lats",
+      "Neck",
+      "Forearms",
+      "Quads",
+      "Abs",
+      "Chest"
+    ],
+    "weakPoints": [
+      "Triceps",
+      "Glutes",
+      "Hamstrings",
+      "Calves",
+      "Rear Delts",
+      "Lower Back"
+    ],
+    "trainingDays": 4,
+    "sessions": [
+      {
+        "sessionOrder": 1,
+        "focusAreas": [
+          "Chest",
+          "Upper Back",
+          "Front Delts",
+          "Biceps",
+          "Abs",
+          "Forearms",
+          "Side Delts",
+          "Lats"
+        ],
+        "exercises": [
+          {
+            "name": "Bench Press",
+            "sets": 4,
+            "repRange": "4-10",
+            "alternates": [
+              {
+                "name": "Dips",
+                "sets": 4,
+                "repRange": "4-10"
+              },
+              {
+                "name": "Weighted Push-Ups",
+                "sets": 4,
+                "repRange": "4-10"
+              }
+            ]
+          },
+          {
+            "name": "DB Rows",
+            "sets": 4,
+            "repRange": "6-12",
+            "alternates": [
+              {
+                "name": "Machine Rows",
+                "sets": 4,
+                "repRange": "6-12"
+              }
+            ]
+          },
+          {
+            "name": "Barbell Overhead Press",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "DB Overhead Press",
+                "sets": 4,
+                "repRange": "6-10"
+              },
+              {
+                "name": "Machine Overhead Press",
+                "sets": 4,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "EZ-Bar Curls",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "DB Curls",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Decline Sit-Ups",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "Cable Flies",
+            "sets": 4,
+            "repRange": "12-15",
+            "alternates": [
+              {
+                "name": "Bent Arm Pec Dec",
+                "sets": 4,
+                "repRange": "12-15"
+              }
+            ]
+          },
+          {
+            "name": "Upright Rows",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Lateral Raises",
+                "sets": 4,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Reverse Curls",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Hammer Curls",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          }
+        ],
+        "notes": "This session sets the tone for the week, combining classic pushing (bench press, overhead press) and pulling (rows, curls) to develop the chest, delts, arms, and upper back. The goal is to build dense muscle across the torso while maintaining shoulder health and symmetry.\nSupplemental work like curls, upright rows, and cable flies bring aesthetic polish, supporting the visual ideals of a \"Superman\" physique — thick shoulders, square chest, and sharp arms."
+      },
+      {
+        "sessionOrder": 2,
+        "focusAreas": [
+          "Quads",
+          "Hamstrings",
+          "Neck",
+          "Glutes",
+          "Calves",
+          "Upper Back",
+          "Lats",
+          "Traps",
+          "Triceps",
+          "Biceps"
+        ],
+        "exercises": [
+          {
+            "name": "Barbell Squats",
+            "sets": 3,
+            "repRange": "6-8",
+            "alternates": [
+              {
+                "name": "Zercher Squats",
+                "sets": 3,
+                "repRange": "6-8"
+              },
+              {
+                "name": "Hack Squats",
+                "sets": 4,
+                "repRange": "6-12"
+              },
+              {
+                "name": "Belt Squats",
+                "sets": 4,
+                "repRange": "6-12"
+              },
+              {
+                "name": "Leg Press",
+                "sets": 4,
+                "repRange": "6-12"
+              }
+            ]
+          },
+          {
+            "name": "Neck Extensions",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": []
+          },
+          {
+            "name": "RDLs",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Block Pulls",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Behind the Back Cable Curls",
+            "sets": 4,
+            "repRange": "10-12",
+            "alternates": []
+          },
+          {
+            "name": "Seated Calf Raises",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Lat Pulldowns",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Weighted Pull-Ups",
+                "sets": 4,
+                "repRange": "6-8"
+              }
+            ]
+          },
+          {
+            "name": "DB Shrugs",
+            "sets": 4,
+            "repRange": "12-15",
+            "alternates": []
+          },
+          {
+            "name": "French Press",
+            "sets": 4,
+            "repRange": "10-12",
+            "alternates": [
+              {
+                "name": "Behind the Head Cable Extensions",
+                "sets": 4,
+                "repRange": "10-12"
+              }
+            ]
+          }
+        ],
+        "notes": "Day 2 focuses on lower body and posterior chain strength, crucial for real-world power and visual balance. Squats and RDLs build base thickness through the quads, glutes, and hamstrings, while isolation work targets calves, triceps, and traps.\nNeck and grip elements are included to reinforce the upper yoke and develop a thicker, more resilient appearance. This day supports performance without overloading the spine, balancing hypertrophy and recovery."
+      },
+      {
+        "sessionOrder": 3,
+        "focusAreas": [
+          "Chest",
+          "Front Delts",
+          "Traps",
+          "Lats",
+          "Hamstrings",
+          "Forearms",
+          "Biceps",
+          "Quads",
+          "Abs",
+          "Neck",
+          "Side Delts",
+          "Upper Back"
+        ],
+        "exercises": [
+          {
+            "name": "Incline Bench Press",
+            "sets": 4,
+            "repRange": "6-12",
+            "alternates": [
+              {
+                "name": "Viking Press",
+                "sets": 4,
+                "repRange": "6-12"
+              }
+            ]
+          },
+          {
+            "name": "Kroc Rows",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "DB Rows",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Farmer's Carries",
+            "sets": 3,
+            "repRange": "30m",
+            "alternates": [
+              {
+                "name": "Trap Bar Deadlifts",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "Cable Lateral Raises",
+            "sets": 3,
+            "repRange": "12-15",
+            "alternates": [
+              {
+                "name": "Incline Cable Flies",
+                "sets": 3,
+                "repRange": "12-15"
+              }
+            ]
+          },
+          {
+            "name": "Russian Twists",
+            "sets": 3,
+            "repRange": "15-20",
+            "alternates": [
+              {
+                "name": "Leg Raises",
+                "sets": 3,
+                "repRange": "15-20"
+              }
+            ]
+          },
+          {
+            "name": "Leg Extensions",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": [
+              {
+                "name": "Split Squats",
+                "sets": 4,
+                "repRange": "15-20"
+              }
+            ]
+          },
+          {
+            "name": "Pinwheel Curls",
+            "sets": 4,
+            "repRange": "10-12",
+            "alternates": [
+              {
+                "name": "Hammer Curls",
+                "sets": 4,
+                "repRange": "10-12"
+              }
+            ]
+          },
+          {
+            "name": "Neck Flexions",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": []
+          }
+        ],
+        "notes": "This session spreads volume across the body while emphasizing neglected zones like neck, obliques, and mid-delt lines. The pressing, rowing, and carry work creates both overload and variety, helping develop a dense upper body.\nThe inclusion of neck flexion, rotational core work, and quad accessories reinforces the Superman silhouette — wide shoulders, strong core, thick neck, and powerful limbs — without doubling up on heavy CNS-demanding lifts."
+      },
+      {
+        "sessionOrder": 4,
+        "focusAreas": [
+          "Calves",
+          "Neck",
+          "Traps",
+          "Triceps",
+          "Abs"
+        ],
+        "exercises": [
+          {
+            "name": "Standing Calf Raises",
+            "sets": 3,
+            "repRange": "15-20",
+            "alternates": [
+              {
+                "name": "Seated Calf Raises",
+                "sets": 3,
+                "repRange": "15-20"
+              }
+            ]
+          },
+          {
+            "name": "Neck Flexions",
+            "sets": 3,
+            "repRange": "10-25",
+            "alternates": []
+          },
+          {
+            "name": "Neck Extensions",
+            "sets": 3,
+            "repRange": "10-25",
+            "alternates": []
+          },
+          {
+            "name": "Shrugs",
+            "sets": 4,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Band Tricep Extensions",
+            "sets": 4,
+            "repRange": "30-50",
+            "alternates": []
+          },
+          {
+            "name": "Plank",
+            "sets": 3,
+            "repRange": "60s",
+            "alternates": []
+          }
+        ],
+        "notes": "Day 4 shifts gears to address lagging or often-overlooked muscle groups: neck, calves, traps, triceps, and abs. The high-volume, lower-load approach stimulates hypertrophy and tendon health while facilitating recovery.\nThis is not a deload — it’s a strategic day to round out physique gaps, bolster injury resilience, and maintain training frequency in a manageable format. It's optional but highly recommended for long-term results."
+      }
+    ],
+    "isActive": false,
+    "metadata": {
+      "requestParams": {
+        "planName": "Superman Program",
+        "trainingDays": 4
+      }
+    }
+  },
+  {
+    "source": "predefined",
+    "planName": "Apollonian Program",
+    "programTheme": "Apollonian from Greek Mythology",
+    "imageKey": "/uploads/workout-1754467927437-714908136.webp",
+    "prioritizedMuscles": [
+      "Lats",
+      "Abs",
+      "Front Delts",
+      "Side Delts"
+    ],
+    "neutralPoints": [
+      "Biceps",
+      "Triceps",
+      "Upper Back",
+      "Forearms",
+      "Chest",
+      "Neck",
+      "Traps",
+      "Rear Delts"
+    ],
+    "weakPoints": [
+      "Calves",
+      "Quads",
+      "Hamstrings",
+      "Glutes",
+      "Lower Back"
+    ],
+    "trainingDays": 4,
+    "sessions": [
+      {
+        "sessionOrder": 1,
+        "focusAreas": [
+          "Chest",
+          "Front Delts",
+          "Triceps",
+          "Upper Back",
+          "Traps",
+          "Lats",
+          "Biceps",
+          "Forearms",
+          "Abs"
+        ],
+        "exercises": [
+          {
+            "name": "Bench Press",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Dips",
+                "sets": 3,
+                "repRange": "6-10"
+              },
+              {
+                "name": "Weighted Push-Ups",
+                "sets": 3,
+                "repRange": "6-10"
+              }
+            ]
+          },
+          {
+            "name": "DB Rows",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Reverse Rows",
+                "sets": 3,
+                "repRange": "AMRAP"
+              }
+            ]
+          },
+          {
+            "name": "Overhead Press",
+            "sets": 4,
+            "repRange": "6-12",
+            "alternates": []
+          },
+          {
+            "name": "Decline Sit-Ups",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "French Press",
+            "sets": 4,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Skullcrushers",
+                "sets": 4,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Hammer Curls",
+            "sets": 4,
+            "repRange": "6-10",
+            "alternates": []
+          },
+          {
+            "name": "Lat Pulldowns",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "The upper body day starts with a horizontal pressing movement like Bench Press, Dips, or Weighted Push-Ups to target the Chest, Shoulders, and Arms, performed for 3 sets of 6 to 10 reps. This is followed by Dumbbell Rows or Bodyweight Reverse Rows to ensure sufficient Upper Back activation, reflecting the importance of balanced push-pull work. \n\nOverhead Pressing comes next, paired with Abdominal nucleus overload to maintain core tightness. The workout then includes Triceps work with French Presses or Skull Crushers and finishes with Hammer Curls and Lat nucleus overload. \n\nThis session focuses on one compound exercise per muscle group combined with isolations, emphasizing quality and flow rather than volume with enough intensity but without burnout."
+      },
+      {
+        "sessionOrder": 2,
+        "focusAreas": [
+          "Hamstrings",
+          "Lower Back",
+          "Glutes",
+          "Quads",
+          "Upper Back",
+          "Traps",
+          "Lats",
+          "Calves",
+          "Side Delts"
+        ],
+        "exercises": [
+          {
+            "name": "Deadlifts",
+            "sets": 3,
+            "repRange": "3",
+            "alternates": [
+              {
+                "name": "RDLs",
+                "sets": 3,
+                "repRange": "8-12"
+              },
+              {
+                "name": "Good Mornings",
+                "sets": 3,
+                "repRange": "6-12"
+              }
+            ]
+          },
+          {
+            "name": "Calf Raises",
+            "sets": 3,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Weighted Pull-Ups",
+            "sets": 4,
+            "repRange": "4-8",
+            "alternates": []
+          },
+          {
+            "name": "Lunges",
+            "sets": 4,
+            "repRange": "10-15",
+            "alternates": [
+              {
+                "name": "Bulgarian Split Squats",
+                "sets": 4,
+                "repRange": "10-15"
+              }
+            ]
+          },
+          {
+            "name": "Shrugs",
+            "sets": 4,
+            "repRange": "12-15",
+            "alternates": []
+          },
+          {
+            "name": "Lateral Raises",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "This hybrid day blends upper and lower body work with an emphasis on developing the Posterior Chain and Legs while maintaining upper body balance. It begins with Deadlifts, Romanian Deadlifts, or Good Mornings to strengthen the Hamstrings and Lower Back, essential for a resilient and balanced physique. \n\nCalf Raises are included to ensure proportional development, important for the aesthetic golden ratio. Weighted Pull-Ups or Lat Pulldowns develop the lats, followed by Lunges or Split Squats to target the Glutes and Quads. \n\nShrugs and Shoulder nucleus overload rounds out the session, though Traps are kept modest to fit the aesthetic goals inspired by classical statues. This day promotes a balanced physique without oversized Legs or Traps, supporting the desired V-taper look."
+      },
+      {
+        "sessionOrder": 3,
+        "focusAreas": [
+          "Triceps",
+          "Biceps",
+          "Upper Back",
+          "Front Delts",
+          "Side Delts",
+          "Lats",
+          "Traps",
+          "Chest",
+          "Abs"
+        ],
+        "exercises": [
+          {
+            "name": "Close Grip Bench Press",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Diamond Push-Ups",
+                "sets": 3,
+                "repRange": "AMRAP"
+              }
+            ]
+          },
+          {
+            "name": "Seal Rows",
+            "sets": 3,
+            "repRange": "8-12",
+            "alternates": [
+              {
+                "name": "Pendlay Rows",
+                "sets": 3,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Pull-Ups",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Bicep Curls",
+            "sets": 3,
+            "repRange": "6-8",
+            "alternates": []
+          },
+          {
+            "name": "Upright Rows",
+            "sets": 3,
+            "repRange": "12-15",
+            "alternates": [
+              {
+                "name": "Lateral Raises",
+                "sets": 3,
+                "repRange": "12-15"
+              }
+            ]
+          },
+          {
+            "name": "Hanging Knee Raises",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Tricep Pushdowns",
+            "sets": 3,
+            "repRange": "15-20",
+            "alternates": []
+          }
+        ],
+        "notes": "The Arms and Upper hybrid day balances arm hypertrophy with upper body strength and aesthetics. It starts with Close-Grip Bench Presses or Diamond Push-Ups to target the Triceps and Chest, followed by Rowing movements for Upper Back balance. \n\nLat nucleus overload continues to emphasize the V-taper. Biceps Curls are combined with Upright Rows or Lateral Raises to work the shoulder medial heads, allowing customization based on personal symmetry preferences. \n\nThe day also incorporates Ab work to maintain core control and finishes with higher-rep triceps pushdowns. This session emphasizes moderate volume and intensity with a conservative approach, aiming to build Arm and Torso development that complements the aesthetic goal without creating disproportionate mass."
+      },
+      {
+        "sessionOrder": 4,
+        "focusAreas": [
+          "Quads",
+          "Glutes",
+          "Hamstrings",
+          "Lower Back",
+          "Calves",
+          "Abs",
+          "Rear Delts",
+          "Neck"
+        ],
+        "exercises": [
+          {
+            "name": "Squats",
+            "sets": 3,
+            "repRange": "6-10",
+            "alternates": [
+              {
+                "name": "Hack Squats",
+                "sets": 3,
+                "repRange": "10-12"
+              },
+              {
+                "name": "Leg Press",
+                "sets": 3,
+                "repRange": "8-12"
+              }
+            ]
+          },
+          {
+            "name": "Seated Calf Raises",
+            "sets": 3,
+            "repRange": "15-20",
+            "alternates": []
+          },
+          {
+            "name": "Hyperextensions",
+            "sets": 4,
+            "repRange": "12-15",
+            "alternates": [
+              {
+                "name": "Single Leg RDLs",
+                "sets": 4,
+                "repRange": "12-15"
+              }
+            ]
+          },
+          {
+            "name": "Decline Crunches",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Neck Curls",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          },
+          {
+            "name": "Rear Delt Face Pulls",
+            "sets": 4,
+            "repRange": "AMRAP",
+            "alternates": []
+          }
+        ],
+        "notes": "The dedicated lower body day focuses on foundational compound movements like Squats, Hack Squats, or Leg Presses to build strength and thickness in the Legs while avoiding excessive waist growth. \n\nIt is followed by Calf Raises to maintain balanced proportions consistent with the golden ratio. Posterior Chain exercises such as Hyperextensions or Single-Leg Romanian Deadlifts target Hamstrings, Glutes, and Lower Back for structural resilience and aesthetic completeness. \n\nCore work includes Decline Crunches, maintaining Ab development alongside nucleus overload. Neck Curls are performed for injury prevention and modest Neck size, reflecting the balanced proportions of classical statues. \n\nThe day wraps up with a Shoulder nucleus overload set to preserve upper body flow and symmetry."
+      }
+    ],
+    "isActive": false,
+    "metadata": {
+      "requestParams": {
+        "planName": "Apollonian Program",
+        "trainingDays": 4
+      }
+    }
+  }
+]
