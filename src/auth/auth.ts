@@ -13,6 +13,13 @@ export const auth = betterAuth({
 
   trustedOrigins: [env.FRONTEND_URL, env.BETTER_AUTH_URL],
 
+  advanced: {
+    defaultCookieAttributes: {
+      sameSite: "none",
+      secure: true,
+    },
+  },
+
   database: mongodbAdapter(database, {
     client,
   }),
