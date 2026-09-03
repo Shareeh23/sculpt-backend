@@ -6,7 +6,9 @@ import { logger } from "../config/logger.js";
 export const validate = (schema: ZodType) => {
   return (req: Request, res: Response, next: NextFunction) => {
     const result = schema.safeParse({
-      body: req.body,
+      // Express leaves req.body undefined for body-less requests such as GET.
+      // Schemas for those routes correctly expect an empty object instead.
+      body: req.body ?? {},
       params: req.params,
       query: req.query,
     });

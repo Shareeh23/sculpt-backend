@@ -505,7 +505,7 @@ Calculates macro gram targets without creating or updating a profile.
 
 ### `GET /api/v1/analysis/:exercise`
 
-Requires authentication. `exercise` is trimmed and must contain 1–100 characters. The lookup is an exact exercise-name match against the user’s logged exercises. Returns **404** with `"No data"` when no matching log data exists.
+Requires authentication. This is a body-less `GET` request: send the exercise name as the URL path parameter, not in a JSON body. `exercise` is trimmed and must contain 1–100 characters. The lookup is an exact exercise-name match against the user’s logged exercises. Returns **404** with `"No data"` when no matching log data exists.
 
 **200 response**
 
