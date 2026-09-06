@@ -1,4 +1,8 @@
-import { DeleteObjectCommand, PutObjectCommand } from "@aws-sdk/client-s3";
+import {
+  GetObjectCommand,
+  DeleteObjectCommand,
+  PutObjectCommand,
+} from "@aws-sdk/client-s3";
 
 import { getSignedUrl } from "@aws-sdk/s3-request-presigner";
 
@@ -52,6 +56,25 @@ class FileService {
       uploadUrl,
       key,
     };
+  }
+
+  async createDownloadUrl(ownerId: string, key: string): Promise<string> {
+    if (!key) {
+      throw new AppError("File key is required", 400);
+    }
+
+    if (!key.startsWith(`profile-pictures/${ownerId}/`)) {
+      throw new AppError("Forbidden", 403);
+    }
+
+    const command = new GetObjectCommand({
+      Bucket: s3Config.bucketName,
+      Key: key,
+    });
+
+    return getSignedUrl(getS3(), command, {
+      expiresIn: 300,
+    });
   }
 
   async deleteFile(key: string): Promise<void> {

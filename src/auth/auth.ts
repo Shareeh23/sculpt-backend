@@ -15,7 +15,7 @@ export const auth = betterAuth({
 
   advanced: {
     defaultCookieAttributes: {
-      sameSite: "none",
+      sameSite: "lax",
       secure: true,
     },
   },
@@ -32,7 +32,6 @@ export const auth = betterAuth({
     },
 
     revokeSessionsOnPasswordReset: true,
-
     resetPasswordTokenExpiresIn: 3600,
   },
 
@@ -44,6 +43,9 @@ export const auth = betterAuth({
   },
 
   user: {
+    changeEmail: {
+      enabled: true,
+    },
     deleteUser: {
       enabled: true,
     },

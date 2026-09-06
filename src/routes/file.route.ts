@@ -1,6 +1,9 @@
 import { Router } from "express";
 
-import { createUploadUrl } from "../controllers/file.controller.js";
+import {
+  createDownloadUrl,
+  createUploadUrl,
+} from "../controllers/file.controller.js";
 
 import { requireAuth } from "../middleware/require-auth.js";
 
@@ -15,6 +18,8 @@ const fileRouter = Router();
 fileRouter.use(requireAuth);
 
 fileRouter.use(apiRateLimit);
+
+fileRouter.get("/download-url", createDownloadUrl);
 
 fileRouter.post(
   "/upload-url",

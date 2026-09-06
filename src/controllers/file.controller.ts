@@ -18,3 +18,23 @@ export const createUploadUrl = async (
     next(error);
   }
 };
+
+export const createDownloadUrl = async (
+  req: Request,
+  res: Response,
+  next: NextFunction,
+) => {
+  try {
+    const url = await fileService.createDownloadUrl(
+      req.user!.id,
+      req.query.key as string,
+    );
+
+    res.status(200).json({
+      status: "success",
+      data: { url },
+    });
+  } catch (error) {
+    next(error);
+  }
+};
